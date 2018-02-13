@@ -39,7 +39,7 @@
     "jade": "^1.11.0",
     "jquery": "^2.1.4",
     "keystone-utils": "^0.3.0",
-    "knox": "^0.9.2",
+    "knox": "git://github.com/caremerge/knox.git#b1e031c209b3c17cab622a458e87728c1ee88cbd",
     "less-middleware": "^2.0.1",
     "list-to-array": "^1.1.0",
     "mandrill-api": "^1.0.45",
